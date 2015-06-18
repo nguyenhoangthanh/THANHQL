@@ -22,7 +22,7 @@
  * configuration
  */
 
-define('PASSWORD', 'htit');
+define('PASSWORD', 'nopass');
 define('PASSWORD_SALT', 'P5`SU2"6]NALYR}');
 
 /**
